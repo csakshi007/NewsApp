@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/NewsApp/static/css/main.f855e6bc.css",
-    "main.js": "/NewsApp/static/js/main.79e87b34.js",
-    "static/js/453.b2157c12.chunk.js": "/NewsApp/static/js/453.b2157c12.chunk.js",
-    "static/media/loading.gif": "/NewsApp/static/media/loading.f3d5f3fc41b551ee7b61.gif",
-    "index.html": "/NewsApp/index.html",
-    "main.f855e6bc.css.map": "/NewsApp/static/css/main.f855e6bc.css.map",
-    "main.79e87b34.js.map": "/NewsApp/static/js/main.79e87b34.js.map",
-    "453.b2157c12.chunk.js.map": "/NewsApp/static/js/453.b2157c12.chunk.js.map"
+    "main.css": "/React-textutilis/static/css/main.e6c13ad2.css",
+    "main.js": "/React-textutilis/static/js/main.40e6a67e.js",
+    "static/js/453.2a2d5162.chunk.js": "/React-textutilis/static/js/453.2a2d5162.chunk.js",
+    "index.html": "/React-textutilis/index.html",
+    "main.e6c13ad2.css.map": "/React-textutilis/static/css/main.e6c13ad2.css.map",
+    "main.40e6a67e.js.map": "/React-textutilis/static/js/main.40e6a67e.js.map",
+    "453.2a2d5162.chunk.js.map": "/React-textutilis/static/js/453.2a2d5162.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.79e87b34.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.40e6a67e.js"
   ]
 }
